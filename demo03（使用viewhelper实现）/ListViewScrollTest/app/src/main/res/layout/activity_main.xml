@@ -1,0 +1,28 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffffff"
+>
+
+
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#def"
+        android:gravity="center"
+        android:text="测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试\n测试"
+        />
+
+
+
+</FrameLayout>
+
